@@ -1,0 +1,10 @@
+D:\НУПП\OOP\lab20\obj\Debug\lab20.csproj.AssemblyReference.cache
+D:\НУПП\OOP\lab20\obj\Debug\lab20.Form1.resources
+D:\НУПП\OOP\lab20\obj\Debug\lab20.Properties.Resources.resources
+D:\НУПП\OOP\lab20\obj\Debug\lab20.csproj.GenerateResource.cache
+D:\НУПП\OOP\lab20\obj\Debug\lab20.csproj.CoreCompileInputs.cache
+D:\НУПП\OOP\lab20\bin\Debug\lab20.exe.config
+D:\НУПП\OOP\lab20\bin\Debug\lab20.exe
+D:\НУПП\OOP\lab20\bin\Debug\lab20.pdb
+D:\НУПП\OOP\lab20\obj\Debug\lab20.exe
+D:\НУПП\OOP\lab20\obj\Debug\lab20.pdb
